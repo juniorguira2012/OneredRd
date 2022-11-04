@@ -1,10 +1,9 @@
 'use strict';
 
 /*
- * A Design by GraphBerry
- * Author: GraphBerry
- * Author URL: http://graphberry.com
- * License: http://graphberry.com/pages/license
+ A Design by juniorguira2012
+ Author: juniorguira2012
+ Author URL: http://juniorguira2012.000webhostapp.com/
  */
  jQuery(document).ready(function ($) {
 
@@ -57,7 +56,7 @@
         maxSlides: 5,
         moveSlides: 2,
         slideWidth: 210,
-        slideMargin: 25,
+        slideMargin: 35,
         prevSelector: $('#client-prev'),
         nextSelector: $('#client-next'),
         prevText: '<i class="icon-left-open"></i>',
